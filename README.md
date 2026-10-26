@@ -36,4 +36,7 @@ Após clonar este repositório,
 * Utilize o arquivo `ldo.ipynb` para realizar a replicação
 
 ## Licenciamento
+
 Este repositório está sob a licença [GNU Affero General Public License na versão 3](https://www.gnu.org/licenses/agpl-3.0.en.html). Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
+
+Copyright (c) 2026 Prefeitura Municipal de São José do Norte, RS.
