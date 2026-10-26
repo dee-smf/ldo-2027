@@ -16,7 +16,7 @@ O objetivo deste modelo é garantir a transparência, a consistência técnica e
 O projeto está assim organizado
 
 ```
-├── data/               # Diretório dedicados aos dados
+├── data/               # Diretório dedicado aos dados
 │   ├── ipm.csv         # Dados brutos de IPM usados no projeto
 │   └── revenues.csv    # Dados brutos de receita usados no projeto
 ├── estimativas.csv     # Saída com as estimativas de receita
@@ -30,9 +30,9 @@ O projeto está assim organizado
 ## Como replicar os resultados
 
 Após clonar este repositório,
-* Crie um ambiente virutal com `python -m venv .venv`
+* Crie um ambiente virtual com `python -m venv .venv`
 * Entre no ambiente virtual com `source .venv/bin/activate`
-* Instale as dependências com `pip -m requirements.txt`
+* Instale as dependências com `pip install -r requirements.txt`
 * Utilize o arquivo `ldo.ipynb` para realizar a replicação
 
 ## Licenciamento
