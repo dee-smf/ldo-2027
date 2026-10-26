@@ -1,0 +1,8 @@
+pandas==3.1.0
+ipykernel==7.4.0
+matplotlib==3.11.2
+python-bcb==0.4.1
+statsmodels==0.15.0
+tikzplotlib==0.10.1
+openpyxl==3.1.5
+regex==2026.9.29
